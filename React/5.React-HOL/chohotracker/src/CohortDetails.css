@@ -1,0 +1,43 @@
+/* Container Box */
+.box {
+    width: 250px;
+    padding: 15px;
+    margin: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: white;
+    box-sizing: border-box;
+}
+
+/* Cohort Heading */
+h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0 0 15px 0;
+}
+
+/* Green color for Ongoing status */
+.ongoing {
+    color: green;
+}
+
+/* Blue color for all other statuses */
+.other {
+    color: rgb(136, 136, 158);
+}
+
+/* Description List */
+dl {
+    margin: 0;
+}
+
+/* Label */
+dt {
+    font-weight: 500;
+    margin-top: 8px;
+}
+
+/* Value */
+dd {
+    margin: 2px 0 8px 0;
+}
